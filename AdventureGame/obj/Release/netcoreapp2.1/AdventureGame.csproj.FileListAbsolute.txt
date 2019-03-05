@@ -1,0 +1,10 @@
+/Users/apelzer/Projects/AdventureGame/AdventureGame/bin/Release/netcoreapp2.1/AdventureGame.deps.json
+/Users/apelzer/Projects/AdventureGame/AdventureGame/bin/Release/netcoreapp2.1/AdventureGame.runtimeconfig.json
+/Users/apelzer/Projects/AdventureGame/AdventureGame/bin/Release/netcoreapp2.1/AdventureGame.runtimeconfig.dev.json
+/Users/apelzer/Projects/AdventureGame/AdventureGame/bin/Release/netcoreapp2.1/AdventureGame.dll
+/Users/apelzer/Projects/AdventureGame/AdventureGame/bin/Release/netcoreapp2.1/AdventureGame.pdb
+/Users/apelzer/Projects/AdventureGame/AdventureGame/obj/Release/netcoreapp2.1/AdventureGame.csproj.CoreCompileInputs.cache
+/Users/apelzer/Projects/AdventureGame/AdventureGame/obj/Release/netcoreapp2.1/AdventureGame.AssemblyInfoInputs.cache
+/Users/apelzer/Projects/AdventureGame/AdventureGame/obj/Release/netcoreapp2.1/AdventureGame.AssemblyInfo.cs
+/Users/apelzer/Projects/AdventureGame/AdventureGame/obj/Release/netcoreapp2.1/AdventureGame.dll
+/Users/apelzer/Projects/AdventureGame/AdventureGame/obj/Release/netcoreapp2.1/AdventureGame.pdb

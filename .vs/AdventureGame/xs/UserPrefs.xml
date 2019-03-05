@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{14E9885C-141D-4AB8-BAD2-ACC56B0145B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdventureGame/main.cs">
+    <Files>
+      <File FileName="AdventureGame/gameObjects.cs" Line="58" Column="2" />
+      <File FileName="AdventureGame/main.cs" Line="31" Column="5" />
+      <File FileName="AdventureGame/intro.cs" Line="65" Column="22" />
+      <File FileName="AdventureGame/kitchen.cs" Line="56" Column="2" />
+      <File FileName="AdventureGame/picky.cs" Line="25" Column="5" />
+      <File FileName="AdventureGame/street.cs" Line="26" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AdventureGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
